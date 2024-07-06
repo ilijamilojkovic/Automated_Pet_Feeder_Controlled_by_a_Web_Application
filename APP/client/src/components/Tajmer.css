@@ -1,0 +1,13 @@
+#timer {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+#timer:hover {
+    background-color: #FFA500;
+    color: white;
+}
